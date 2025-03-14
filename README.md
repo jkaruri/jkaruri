@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jkaruri
-- 👀 I’m interested in Data Science esp. using Python
-- 🌱 I’m currently learning Data Science with Python (various courses)
-- 💞️ I’m looking to collaborate on Data Science projects, esp. in FinTech and Financial Services at large
+- 👀 I’m interested in building great lovable products
+- 💞️ I’m looking to collaborate on building consumer products in the services sector
 - 📫 How to reach me: karurijoel@gmail.com
 
 <!---
